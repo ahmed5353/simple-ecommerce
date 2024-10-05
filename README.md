@@ -12,7 +12,7 @@
 
     ```
     cd simple-ecommerce
-
+     ```
 3. Install dependencies:
 
     ```
