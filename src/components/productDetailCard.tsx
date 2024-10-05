@@ -9,7 +9,7 @@ import { useDispatch } from 'react-redux';
 import { addToCart } from '@/store/cartSlice';
 
 export function ProductDetailCard({
-  id,
+  id = 0,
   title = 'N/A',
   description = 'N/A',
   price = 0,
